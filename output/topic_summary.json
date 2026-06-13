@@ -1,0 +1,373 @@
+[
+  {
+    "topic_id": 0,
+    "theme": "developer",
+    "count": 34,
+    "keywords": [
+      "updates",
+      "community",
+      "game",
+      "responsive",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "avg_sentiment": 59.19,
+    "sentiment_dist": {
+      "positive": 26,
+      "negative": 8
+    }
+  },
+  {
+    "topic_id": 1,
+    "theme": "gameplay",
+    "count": 33,
+    "keywords": [
+      "gameplay",
+      "hours",
+      "feel",
+      "story",
+      "game",
+      "poorly",
+      "",
+      ""
+    ],
+    "avg_sentiment": 47.17,
+    "sentiment_dist": {
+      "negative": 19,
+      "positive": 14
+    }
+  },
+  {
+    "topic_id": 2,
+    "theme": "gameplay",
+    "count": 31,
+    "keywords": [
+      "game",
+      "story",
+      "love",
+      "gameplay",
+      "hours",
+      "okay",
+      "genre",
+      ""
+    ],
+    "avg_sentiment": 84.55,
+    "sentiment_dist": {
+      "positive": 28,
+      "negative": 3
+    }
+  },
+  {
+    "topic_id": 3,
+    "theme": "story",
+    "count": 23,
+    "keywords": [
+      "story",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "avg_sentiment": 52.19,
+    "sentiment_dist": {
+      "positive": 16,
+      "negative": 7
+    }
+  },
+  {
+    "topic_id": 4,
+    "theme": "performance",
+    "count": 19,
+    "keywords": [
+      "performance",
+      "bugs",
+      "experience",
+      "great",
+      "updates",
+      "",
+      "",
+      ""
+    ],
+    "avg_sentiment": 66.23,
+    "sentiment_dist": {
+      "positive": 14,
+      "neutral": 5
+    }
+  },
+  {
+    "topic_id": 5,
+    "theme": "value",
+    "count": 19,
+    "keywords": [
+      "worth",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "avg_sentiment": 74.69,
+    "sentiment_dist": {
+      "positive": 19
+    }
+  },
+  {
+    "topic_id": 6,
+    "theme": "other",
+    "count": 16,
+    "keywords": [
+      "graphics",
+      "controls responsive",
+      "stunning",
+      "best purchase",
+      "graphics stunning",
+      "purchase",
+      "purchase ve",
+      "year graphics"
+    ],
+    "avg_sentiment": 52.4,
+    "sentiment_dist": {
+      "positive": 9,
+      "negative": 7
+    }
+  },
+  {
+    "topic_id": 7,
+    "theme": "multiplayer",
+    "count": 15,
+    "keywords": [
+      "online multiplayer",
+      "online",
+      "multiplayer",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "avg_sentiment": 37.08,
+    "sentiment_dist": {
+      "negative": 15
+    }
+  },
+  {
+    "topic_id": 8,
+    "theme": "other",
+    "count": 13,
+    "keywords": [
+      "feels",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "avg_sentiment": 57.66,
+    "sentiment_dist": {
+      "positive": 13
+    }
+  },
+  {
+    "topic_id": 9,
+    "theme": "performance",
+    "count": 12,
+    "keywords": [
+      "pc",
+      "optimization",
+      "love",
+      "runs",
+      "great",
+      "",
+      "",
+      ""
+    ],
+    "avg_sentiment": 97.21,
+    "sentiment_dist": {
+      "positive": 12
+    }
+  },
+  {
+    "topic_id": 10,
+    "theme": "value",
+    "count": 11,
+    "keywords": [
+      "bugs",
+      "hours",
+      "10",
+      "game",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "avg_sentiment": 57.2,
+    "sentiment_dist": {
+      "positive": 7,
+      "neutral": 4
+    }
+  },
+  {
+    "topic_id": 11,
+    "theme": "other",
+    "count": 11,
+    "keywords": [
+      "10",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "avg_sentiment": 50.0,
+    "sentiment_dist": {
+      "neutral": 11
+    }
+  },
+  {
+    "topic_id": 12,
+    "theme": "multiplayer",
+    "count": 10,
+    "keywords": [
+      "online",
+      "community",
+      "fair",
+      "fast",
+      "super",
+      "multiplayer super",
+      "super fun",
+      "matchmaking fast"
+    ],
+    "avg_sentiment": 47.28,
+    "sentiment_dist": {
+      "negative": 8,
+      "positive": 2
+    }
+  },
+  {
+    "topic_id": 13,
+    "theme": "gameplay",
+    "count": 10,
+    "keywords": [
+      "controls",
+      "feels",
+      "best purchase",
+      "year",
+      "ve year",
+      "ve",
+      "stunning controls",
+      "stunning"
+    ],
+    "avg_sentiment": 58.52,
+    "sentiment_dist": {
+      "neutral": 8,
+      "positive": 2
+    }
+  },
+  {
+    "topic_id": 14,
+    "theme": "other",
+    "count": 9,
+    "keywords": [
+      "don help",
+      "settings don",
+      "ruined experience",
+      "ruined",
+      "performance issues",
+      "low settings",
+      "low",
+      "issues ruined"
+    ],
+    "avg_sentiment": 21.52,
+    "sentiment_dist": {
+      "negative": 9
+    }
+  },
+  {
+    "topic_id": 15,
+    "theme": "other",
+    "count": 9,
+    "keywords": [
+      "feel",
+      "experience",
+      "great",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "avg_sentiment": 47.99,
+    "sentiment_dist": {
+      "negative": 5,
+      "positive": 4
+    }
+  },
+  {
+    "topic_id": 16,
+    "theme": "performance",
+    "count": 8,
+    "keywords": [
+      "breathtaking",
+      "visually breathtaking",
+      "visually",
+      "ultra settings",
+      "ultra",
+      "stable 60fps",
+      "stable",
+      "settings visually"
+    ],
+    "avg_sentiment": 73.81,
+    "sentiment_dist": {
+      "positive": 8
+    }
+  },
+  {
+    "topic_id": 17,
+    "theme": "other",
+    "count": 7,
+    "keywords": [
+      "poorly",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "avg_sentiment": 34.09,
+    "sentiment_dist": {
+      "negative": 7
+    }
+  },
+  {
+    "topic_id": 18,
+    "theme": "multiplayer",
+    "count": 6,
+    "keywords": [
+      "super",
+      "multiplayer super",
+      "super fun",
+      "matchmaking fast",
+      "matchmaking",
+      "fun friends",
+      "fun",
+      "friends matchmaking"
+    ],
+    "avg_sentiment": 95.59,
+    "sentiment_dist": {
+      "positive": 6
+    }
+  }
+]

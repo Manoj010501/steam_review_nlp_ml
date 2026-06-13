@@ -1,0 +1,69 @@
+[
+  {
+    "type": "topic_decline",
+    "severity": "high",
+    "theme": "other",
+    "avg_sentiment": 21.52,
+    "overall_avg": 59.4,
+    "gap": 37.9,
+    "message": "Topic 'other' has avg sentiment 22/100, which is 38 points below the overall average. Top complaints: don help, settings don, ruined experience, ruined."
+  },
+  {
+    "type": "topic_decline",
+    "severity": "high",
+    "theme": "other",
+    "avg_sentiment": 34.09,
+    "overall_avg": 59.4,
+    "gap": 25.3,
+    "message": "Topic 'other' has avg sentiment 34/100, which is 25 points below the overall average. Top complaints: poorly, , , ."
+  },
+  {
+    "type": "sentiment_decline",
+    "severity": "high",
+    "game_name": "Valheim",
+    "velocity": -32.2,
+    "current_score": 18.15,
+    "message": "Valheim sentiment dropped 32 points in the last 2 months (now 18/100). Review recent patches and community feedback."
+  },
+  {
+    "type": "topic_decline",
+    "severity": "medium",
+    "theme": "multiplayer",
+    "avg_sentiment": 37.08,
+    "overall_avg": 59.4,
+    "gap": 22.3,
+    "message": "Topic 'multiplayer' has avg sentiment 37/100, which is 22 points below the overall average. Top complaints: online multiplayer, online, multiplayer, ."
+  },
+  {
+    "type": "praise_signal",
+    "severity": "info",
+    "category": "story",
+    "count": 29,
+    "pct_of_pos": 15.8,
+    "message": "15.8% of positive reviews praise 'story'. Consider highlighting this in marketing materials."
+  },
+  {
+    "type": "praise_signal",
+    "severity": "info",
+    "category": "gameplay",
+    "count": 37,
+    "pct_of_pos": 20.2,
+    "message": "20.2% of positive reviews praise 'gameplay'. Consider highlighting this in marketing materials."
+  },
+  {
+    "type": "praise_signal",
+    "severity": "info",
+    "category": "performance",
+    "count": 37,
+    "pct_of_pos": 20.2,
+    "message": "20.2% of positive reviews praise 'performance'. Consider highlighting this in marketing materials."
+  },
+  {
+    "type": "praise_signal",
+    "severity": "info",
+    "category": "value",
+    "count": 45,
+    "pct_of_pos": 24.6,
+    "message": "24.6% of positive reviews praise 'value'. Consider highlighting this in marketing materials."
+  }
+]

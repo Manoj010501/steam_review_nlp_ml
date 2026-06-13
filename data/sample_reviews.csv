@@ -1,0 +1,301 @@
+review_id,app_id,game_name,review_text,voted_up,playtime_hours,date,month,true_sentiment
+rev_00000,1091500,Cyberpunk 2077,The developers abandoned this game after launch. No updates in 6 months.,False,13.6,2023-01-24,2023-01,negative
+rev_00001,1091500,Cyberpunk 2077,Controls are clunky and unresponsive. Feels unfinished.,False,5.5,2023-11-14,2023-11,negative
+rev_00002,1091500,Cyberpunk 2077,The developers really listen to the community. Updates keep improving the game.,True,36.2,2023-01-01,2023-01,positive
+rev_00003,1203220,DEATH STRANDING,The UI is confusing and poorly designed. Hard to navigate menus.,False,40.4,2023-04-08,2023-04,negative
+rev_00004,892970,Valheim,Loved every minute of it. The puzzles are clever and rewarding.,True,1.3,2023-10-26,2023-10,positive
+rev_00005,1245620,Elden Ring,"Great optimization, runs perfectly on my mid-range PC. Love the art style.",True,9.4,2023-12-25,2023-12,positive
+rev_00006,1174180,Red Dead Redemption 2,Best purchase I've made this year. Graphics are stunning and controls are responsive.,True,23.2,2023-02-12,2023-02,positive
+rev_00007,1203220,DEATH STRANDING,The UI is confusing and poorly designed. Hard to navigate menus.,False,31.8,2023-05-04,2023-05,negative
+rev_00008,892970,Valheim,Toxic community and no anti-cheat system. Hackers everywhere online.,False,50.5,2023-02-28,2023-02,negative
+rev_00009,1174180,Red Dead Redemption 2,Best purchase I've made this year. Graphics are stunning and controls are responsive.,True,3.3,2023-10-08,2023-10,positive
+rev_00010,1174180,Red Dead Redemption 2,Graphics are nice but gameplay is mediocre. Worth it on sale.,False,24.9,2023-02-15,2023-02,neutral
+rev_00011,1174180,Red Dead Redemption 2,The developers really listen to the community. Updates keep improving the game.,True,56.5,2023-03-23,2023-03,positive
+rev_00012,1091500,Cyberpunk 2077,Controls are clunky and unresponsive. Feels unfinished.,False,66.3,2023-10-06,2023-10,negative
+rev_00013,892970,Valheim,Runs at a stable 60fps on ultra settings. Visually breathtaking.,True,52.1,2023-07-18,2023-07,positive
+rev_00014,1245620,Elden Ring,Solid game with regular updates. Dev team is responsive on forums.,True,75.8,2023-11-08,2023-11,positive
+rev_00015,1091500,Cyberpunk 2077,"Great optimization, runs perfectly on my mid-range PC. Love the art style.",True,4.4,2024-01-19,2024-01,positive
+rev_00016,1174180,Red Dead Redemption 2,Multiplayer servers are always down. Can't even play online.,False,109.0,2023-04-21,2023-04,negative
+rev_00017,892970,Valheim,The developers really listen to the community. Updates keep improving the game.,True,69.3,2023-03-18,2023-03,positive
+rev_00018,1174180,Red Dead Redemption 2,Repetitive gameplay with nothing new after the first hour.,False,44.8,2023-12-12,2023-12,negative
+rev_00019,1245620,Elden Ring,Best purchase I've made this year. Graphics are stunning and controls are responsive.,True,71.5,2023-03-28,2023-03,positive
+rev_00020,1091500,Cyberpunk 2077,No controller support. Keyboard only on a game that screams for gamepad.,False,58.0,2023-03-20,2023-03,negative
+rev_00021,1091500,Cyberpunk 2077,Worth every penny. The open world is huge and full of things to do.,True,38.7,2023-07-18,2023-07,positive
+rev_00022,1091500,Cyberpunk 2077,Performance issues ruined my experience. Even low settings don't help.,False,109.0,2023-11-25,2023-11,negative
+rev_00023,1174180,Red Dead Redemption 2,Game crashes every 30 minutes. Unplayable in its current state.,False,18.4,2024-01-06,2024-01,negative
+rev_00024,892970,Valheim,Average experience overall. Neither impressed nor disappointed.,False,179.6,2023-01-25,2023-01,neutral
+rev_00025,1245620,Elden Ring,Average experience overall. Neither impressed nor disappointed.,False,93.2,2023-09-17,2023-09,neutral
+rev_00026,1203220,DEATH STRANDING,Solid game with regular updates. Dev team is responsive on forums.,True,9.8,2023-04-25,2023-04,positive
+rev_00027,1203220,DEATH STRANDING,Incredible storyline with memorable characters. The voice acting is top notch.,True,34.5,2024-03-04,2024-03,positive
+rev_00028,1174180,Red Dead Redemption 2,Average experience overall. Neither impressed nor disappointed.,False,14.7,2024-03-08,2024-03,neutral
+rev_00029,1203220,DEATH STRANDING,Worth every penny. The open world is huge and full of things to do.,True,85.6,2023-02-25,2023-02,positive
+rev_00030,1203220,DEATH STRANDING,Combat feels satisfying and deep. Lots of build variety to experiment with.,True,33.2,2024-01-18,2024-01,positive
+rev_00031,1245620,Elden Ring,10/10 would buy again. The music and atmosphere are phenomenal.,True,28.5,2023-05-07,2023-05,positive
+rev_00032,1203220,DEATH STRANDING,The developers abandoned this game after launch. No updates in 6 months.,False,63.4,2024-01-13,2024-01,negative
+rev_00033,1174180,Red Dead Redemption 2,"Finished it once, won't replay. Story is fine, gameplay serviceable.",False,7.4,2023-08-08,2023-08,neutral
+rev_00034,1091500,Cyberpunk 2077,"Performance is great, no bugs encountered. Very polished experience.",True,14.1,2023-06-08,2023-06,positive
+rev_00035,1091500,Cyberpunk 2077,Terrible optimization. Constant stuttering even on high-end hardware.,False,14.0,2023-02-02,2023-02,negative
+rev_00036,1174180,Red Dead Redemption 2,"Great optimization, runs perfectly on my mid-range PC. Love the art style.",True,56.3,2023-02-07,2023-02,positive
+rev_00037,1203220,DEATH STRANDING,Repetitive gameplay with nothing new after the first hour.,False,43.3,2023-03-16,2023-03,negative
+rev_00038,1245620,Elden Ring,Multiplayer is super fun with friends. Matchmaking is fast and fair.,True,11.6,2024-01-04,2024-01,positive
+rev_00039,892970,Valheim,Worth every penny. The open world is huge and full of things to do.,True,100.7,2023-06-02,2023-06,positive
+rev_00040,1091500,Cyberpunk 2077,Incredible storyline with memorable characters. The voice acting is top notch.,True,81.6,2023-01-04,2023-01,positive
+rev_00041,1245620,Elden Ring,Worth every penny. The open world is huge and full of things to do.,True,8.6,2023-04-06,2023-04,positive
+rev_00042,1174180,Red Dead Redemption 2,Runs at a stable 60fps on ultra settings. Visually breathtaking.,True,4.9,2023-08-26,2023-08,positive
+rev_00043,1203220,DEATH STRANDING,"Performance is great, no bugs encountered. Very polished experience.",True,91.4,2023-02-03,2023-02,positive
+rev_00044,1245620,Elden Ring,Worth every penny. The open world is huge and full of things to do.,True,13.0,2023-03-13,2023-03,positive
+rev_00045,1091500,Cyberpunk 2077,Multiplayer is super fun with friends. Matchmaking is fast and fair.,True,16.4,2023-03-26,2023-03,positive
+rev_00046,892970,Valheim,The crafting system is well thought out. Hours of content to explore.,True,270.3,2023-05-18,2023-05,positive
+rev_00047,892970,Valheim,The developers really listen to the community. Updates keep improving the game.,True,174.2,2023-03-19,2023-03,positive
+rev_00048,1203220,DEATH STRANDING,Terrible optimization. Constant stuttering even on high-end hardware.,False,3.6,2023-01-16,2023-01,negative
+rev_00049,1203220,DEATH STRANDING,Has potential but needs more polish. Might revisit after updates.,False,3.9,2024-03-17,2024-03,neutral
+rev_00050,1091500,Cyberpunk 2077,10/10 would buy again. The music and atmosphere are phenomenal.,True,4.5,2024-02-28,2024-02,positive
+rev_00051,1245620,Elden Ring,Runs at a stable 60fps on ultra settings. Visually breathtaking.,True,43.2,2023-07-19,2023-07,positive
+rev_00052,1203220,DEATH STRANDING,Multiplayer servers are always down. Can't even play online.,False,54.6,2023-01-19,2023-01,negative
+rev_00053,1203220,DEATH STRANDING,"Mixed feelings. Some parts are great, others feel rushed.",False,56.4,2023-06-11,2023-06,neutral
+rev_00054,1245620,Elden Ring,Combat feels satisfying and deep. Lots of build variety to experiment with.,True,52.9,2023-05-15,2023-05,positive
+rev_00055,1174180,Red Dead Redemption 2,Game crashes every 30 minutes. Unplayable in its current state.,False,1.5,2024-03-20,2024-03,negative
+rev_00056,1203220,DEATH STRANDING,The developers really listen to the community. Updates keep improving the game.,True,36.2,2023-02-05,2023-02,positive
+rev_00057,1174180,Red Dead Redemption 2,The developers really listen to the community. Updates keep improving the game.,True,24.1,2024-03-06,2024-03,positive
+rev_00058,892970,Valheim,"Great optimization, runs perfectly on my mid-range PC. Love the art style.",True,48.3,2024-02-26,2024-02,positive
+rev_00059,1203220,DEATH STRANDING,Controls are clunky and unresponsive. Feels unfinished.,False,18.8,2023-01-22,2023-01,negative
+rev_00060,1091500,Cyberpunk 2077,Best purchase I've made this year. Graphics are stunning and controls are responsive.,True,111.2,2024-03-24,2024-03,positive
+rev_00061,1203220,DEATH STRANDING,10/10 would buy again. The music and atmosphere are phenomenal.,True,12.8,2023-03-11,2023-03,positive
+rev_00062,1245620,Elden Ring,Full of microtransactions and pay-to-win mechanics. Avoid.,False,36.2,2023-11-09,2023-11,negative
+rev_00063,1091500,Cyberpunk 2077,Toxic community and no anti-cheat system. Hackers everywhere online.,False,17.2,2023-02-01,2023-02,negative
+rev_00064,1174180,Red Dead Redemption 2,"Great optimization, runs perfectly on my mid-range PC. Love the art style.",True,9.8,2024-01-15,2024-01,positive
+rev_00065,1203220,DEATH STRANDING,Absolutely love this game! The gameplay is smooth and the story is engaging.,True,6.9,2023-12-23,2023-12,positive
+rev_00066,1245620,Elden Ring,Incredible storyline with memorable characters. The voice acting is top notch.,True,44.7,2023-09-05,2023-09,positive
+rev_00067,892970,Valheim,Incredible storyline with memorable characters. The voice acting is top notch.,True,115.6,2023-03-26,2023-03,positive
+rev_00068,1091500,Cyberpunk 2077,Combat feels satisfying and deep. Lots of build variety to experiment with.,True,15.4,2024-03-04,2024-03,positive
+rev_00069,1174180,Red Dead Redemption 2,Toxic community and no anti-cheat system. Hackers everywhere online.,False,27.1,2024-01-20,2024-01,negative
+rev_00070,1245620,Elden Ring,Has potential but needs more polish. Might revisit after updates.,False,187.9,2024-03-26,2024-03,neutral
+rev_00071,1245620,Elden Ring,"Amazing game, highly recommend. Spent 100+ hours and still not bored.",True,67.7,2024-03-11,2024-03,positive
+rev_00072,892970,Valheim,The UI is confusing and poorly designed. Hard to navigate menus.,False,84.2,2024-01-09,2024-01,negative
+rev_00073,1245620,Elden Ring,Multiplayer servers are always down. Can't even play online.,False,103.9,2024-01-28,2024-01,negative
+rev_00074,892970,Valheim,Runs at a stable 60fps on ultra settings. Visually breathtaking.,True,31.8,2023-04-10,2023-04,positive
+rev_00075,1245620,Elden Ring,The developers really listen to the community. Updates keep improving the game.,True,26.4,2023-04-09,2023-04,positive
+rev_00076,1091500,Cyberpunk 2077,Combat feels satisfying and deep. Lots of build variety to experiment with.,True,36.6,2024-01-22,2024-01,positive
+rev_00077,1203220,DEATH STRANDING,Graphics are nice but gameplay is mediocre. Worth it on sale.,False,105.8,2023-06-09,2023-06,neutral
+rev_00078,1245620,Elden Ring,Average experience overall. Neither impressed nor disappointed.,False,3.0,2023-10-20,2023-10,neutral
+rev_00079,892970,Valheim,Story is boring and predictable. Characters have zero depth.,False,29.7,2023-06-17,2023-06,negative
+rev_00080,1091500,Cyberpunk 2077,"Mixed feelings. Some parts are great, others feel rushed.",False,15.7,2023-07-23,2023-07,neutral
+rev_00081,892970,Valheim,Solid game with regular updates. Dev team is responsive on forums.,True,39.7,2023-01-24,2023-01,positive
+rev_00082,1245620,Elden Ring,Combat feels satisfying and deep. Lots of build variety to experiment with.,True,127.8,2023-06-20,2023-06,positive
+rev_00083,1174180,Red Dead Redemption 2,The UI is confusing and poorly designed. Hard to navigate menus.,False,116.2,2023-11-17,2023-11,negative
+rev_00084,1174180,Red Dead Redemption 2,Multiplayer is super fun with friends. Matchmaking is fast and fair.,True,60.7,2023-11-18,2023-11,positive
+rev_00085,1245620,Elden Ring,Multiplayer is super fun with friends. Matchmaking is fast and fair.,True,57.6,2023-04-06,2023-04,positive
+rev_00086,1203220,DEATH STRANDING,"Performance is great, no bugs encountered. Very polished experience.",True,90.7,2023-10-10,2023-10,positive
+rev_00087,1174180,Red Dead Redemption 2,10/10 would buy again. The music and atmosphere are phenomenal.,True,47.7,2023-04-11,2023-04,positive
+rev_00088,892970,Valheim,The developers really listen to the community. Updates keep improving the game.,True,36.8,2023-08-26,2023-08,positive
+rev_00089,1245620,Elden Ring,"Performance is great, no bugs encountered. Very polished experience.",True,55.5,2023-11-20,2023-11,positive
+rev_00090,1174180,Red Dead Redemption 2,No controller support. Keyboard only on a game that screams for gamepad.,False,14.4,2023-02-10,2023-02,negative
+rev_00091,1245620,Elden Ring,Absolutely love this game! The gameplay is smooth and the story is engaging.,True,3.4,2024-01-16,2024-01,positive
+rev_00092,1203220,DEATH STRANDING,Riddled with bugs that break progression. Lost 10 hours of save data.,False,27.8,2024-02-21,2024-02,negative
+rev_00093,1203220,DEATH STRANDING,Multiplayer servers are always down. Can't even play online.,False,35.1,2023-04-08,2023-04,negative
+rev_00094,1245620,Elden Ring,Repetitive gameplay with nothing new after the first hour.,False,70.5,2023-11-25,2023-11,negative
+rev_00095,1091500,Cyberpunk 2077,"Amazing game, highly recommend. Spent 100+ hours and still not bored.",True,82.5,2024-01-23,2024-01,positive
+rev_00096,1203220,DEATH STRANDING,The developers really listen to the community. Updates keep improving the game.,True,125.7,2023-08-04,2023-08,positive
+rev_00097,892970,Valheim,Performance issues ruined my experience. Even low settings don't help.,False,38.9,2023-03-18,2023-03,negative
+rev_00098,1203220,DEATH STRANDING,"Finished it once, won't replay. Story is fine, gameplay serviceable.",False,48.4,2023-06-24,2023-06,neutral
+rev_00099,1203220,DEATH STRANDING,Controls are clunky and unresponsive. Feels unfinished.,False,30.5,2023-07-06,2023-07,negative
+rev_00100,892970,Valheim,The developers really listen to the community. Updates keep improving the game.,True,92.6,2023-08-09,2023-08,positive
+rev_00101,1203220,DEATH STRANDING,Full of microtransactions and pay-to-win mechanics. Avoid.,False,30.0,2023-08-23,2023-08,negative
+rev_00102,1174180,Red Dead Redemption 2,Incredible storyline with memorable characters. The voice acting is top notch.,True,112.8,2023-04-03,2023-04,positive
+rev_00103,1245620,Elden Ring,The crafting system is well thought out. Hours of content to explore.,True,9.3,2023-03-07,2023-03,positive
+rev_00104,1091500,Cyberpunk 2077,"Performance is great, no bugs encountered. Very polished experience.",True,32.4,2023-07-02,2023-07,positive
+rev_00105,1245620,Elden Ring,Runs at a stable 60fps on ultra settings. Visually breathtaking.,True,74.4,2024-02-23,2024-02,positive
+rev_00106,1091500,Cyberpunk 2077,Would recommend only if you're a fan of this type of game specifically.,False,24.9,2024-02-01,2024-02,neutral
+rev_00107,1174180,Red Dead Redemption 2,Toxic community and no anti-cheat system. Hackers everywhere online.,False,112.1,2023-05-27,2023-05,negative
+rev_00108,892970,Valheim,Controls are clunky and unresponsive. Feels unfinished.,False,81.4,2023-09-08,2023-09,negative
+rev_00109,892970,Valheim,Worth every penny. The open world is huge and full of things to do.,True,2.5,2023-04-11,2023-04,positive
+rev_00110,892970,Valheim,Worth every penny. The open world is huge and full of things to do.,True,127.0,2023-12-20,2023-12,positive
+rev_00111,1203220,DEATH STRANDING,Would recommend only if you're a fan of this type of game specifically.,False,42.6,2023-01-01,2023-01,neutral
+rev_00112,1091500,Cyberpunk 2077,Loved every minute of it. The puzzles are clever and rewarding.,True,32.0,2023-11-02,2023-11,positive
+rev_00113,1174180,Red Dead Redemption 2,Worth every penny. The open world is huge and full of things to do.,True,20.8,2023-07-25,2023-07,positive
+rev_00114,892970,Valheim,Toxic community and no anti-cheat system. Hackers everywhere online.,False,28.4,2023-05-27,2023-05,negative
+rev_00115,1091500,Cyberpunk 2077,"Performance is great, no bugs encountered. Very polished experience.",True,3.7,2023-08-12,2023-08,positive
+rev_00116,1245620,Elden Ring,Combat feels satisfying and deep. Lots of build variety to experiment with.,True,3.1,2023-11-01,2023-11,positive
+rev_00117,1245620,Elden Ring,False advertising. The trailers showed nothing like the actual game.,False,9.3,2023-04-05,2023-04,negative
+rev_00118,892970,Valheim,The developers really listen to the community. Updates keep improving the game.,True,32.3,2023-11-09,2023-11,positive
+rev_00119,1174180,Red Dead Redemption 2,The UI is confusing and poorly designed. Hard to navigate menus.,False,64.4,2023-03-25,2023-03,negative
+rev_00120,1245620,Elden Ring,Absolutely love this game! The gameplay is smooth and the story is engaging.,True,133.2,2023-05-19,2023-05,positive
+rev_00121,892970,Valheim,"Mixed feelings. Some parts are great, others feel rushed.",False,5.0,2023-07-23,2023-07,neutral
+rev_00122,1245620,Elden Ring,Full of microtransactions and pay-to-win mechanics. Avoid.,False,96.0,2023-02-20,2023-02,negative
+rev_00123,1091500,Cyberpunk 2077,Decent game but nothing groundbreaking. Gets repetitive after a while.,False,22.3,2024-01-14,2024-01,neutral
+rev_00124,1174180,Red Dead Redemption 2,Incredible storyline with memorable characters. The voice acting is top notch.,True,1.6,2023-02-14,2023-02,positive
+rev_00125,892970,Valheim,Incredible storyline with memorable characters. The voice acting is top notch.,True,51.5,2023-02-27,2023-02,positive
+rev_00126,892970,Valheim,"Amazing game, highly recommend. Spent 100+ hours and still not bored.",True,67.2,2023-12-21,2023-12,positive
+rev_00127,1174180,Red Dead Redemption 2,Controls are clunky and unresponsive. Feels unfinished.,False,75.5,2023-10-15,2023-10,negative
+rev_00128,892970,Valheim,Full of microtransactions and pay-to-win mechanics. Avoid.,False,20.5,2024-02-08,2024-02,negative
+rev_00129,1091500,Cyberpunk 2077,"Mixed feelings. Some parts are great, others feel rushed.",False,70.4,2023-05-19,2023-05,neutral
+rev_00130,1203220,DEATH STRANDING,Absolutely love this game! The gameplay is smooth and the story is engaging.,True,35.1,2023-11-11,2023-11,positive
+rev_00131,1245620,Elden Ring,Solid game with regular updates. Dev team is responsive on forums.,True,15.9,2023-08-09,2023-08,positive
+rev_00132,1203220,DEATH STRANDING,Runs okay on my PC. Not the best not the worst in the genre.,False,1.5,2023-12-07,2023-12,neutral
+rev_00133,1091500,Cyberpunk 2077,Riddled with bugs that break progression. Lost 10 hours of save data.,False,41.5,2023-04-08,2023-04,negative
+rev_00134,892970,Valheim,Riddled with bugs that break progression. Lost 10 hours of save data.,False,79.7,2023-11-03,2023-11,negative
+rev_00135,1174180,Red Dead Redemption 2,The developers really listen to the community. Updates keep improving the game.,True,19.3,2023-04-19,2023-04,positive
+rev_00136,1174180,Red Dead Redemption 2,Story is boring and predictable. Characters have zero depth.,False,28.7,2023-08-24,2023-08,negative
+rev_00137,1203220,DEATH STRANDING,Worth every penny. The open world is huge and full of things to do.,True,16.8,2023-06-09,2023-06,positive
+rev_00138,1245620,Elden Ring,Story is boring and predictable. Characters have zero depth.,False,7.4,2023-02-18,2023-02,negative
+rev_00139,1245620,Elden Ring,Worth every penny. The open world is huge and full of things to do.,True,17.2,2023-04-19,2023-04,positive
+rev_00140,1203220,DEATH STRANDING,Best purchase I've made this year. Graphics are stunning and controls are responsive.,True,90.4,2023-10-10,2023-10,positive
+rev_00141,1245620,Elden Ring,Absolutely love this game! The gameplay is smooth and the story is engaging.,True,62.6,2023-06-05,2023-06,positive
+rev_00142,1174180,Red Dead Redemption 2,Runs okay on my PC. Not the best not the worst in the genre.,False,18.3,2023-01-05,2023-01,neutral
+rev_00143,892970,Valheim,Would recommend only if you're a fan of this type of game specifically.,False,17.7,2023-02-16,2023-02,neutral
+rev_00144,892970,Valheim,Absolutely love this game! The gameplay is smooth and the story is engaging.,True,15.5,2023-06-28,2023-06,positive
+rev_00145,892970,Valheim,Multiplayer servers are always down. Can't even play online.,False,34.8,2023-02-19,2023-02,negative
+rev_00146,1091500,Cyberpunk 2077,10/10 would buy again. The music and atmosphere are phenomenal.,True,149.9,2023-03-03,2023-03,positive
+rev_00147,1245620,Elden Ring,Multiplayer servers are always down. Can't even play online.,False,47.6,2023-02-26,2023-02,negative
+rev_00148,1203220,DEATH STRANDING,Multiplayer servers are always down. Can't even play online.,False,30.9,2023-04-15,2023-04,negative
+rev_00149,1174180,Red Dead Redemption 2,Multiplayer servers are always down. Can't even play online.,False,19.2,2024-02-20,2024-02,negative
+rev_00150,1091500,Cyberpunk 2077,Graphics are nice but gameplay is mediocre. Worth it on sale.,False,148.4,2023-10-07,2023-10,neutral
+rev_00151,1245620,Elden Ring,Way too expensive for the amount of content. Feel cheated.,False,14.7,2023-05-18,2023-05,negative
+rev_00152,1091500,Cyberpunk 2077,Worth every penny. The open world is huge and full of things to do.,True,59.5,2023-03-16,2023-03,positive
+rev_00153,1174180,Red Dead Redemption 2,The crafting system is well thought out. Hours of content to explore.,True,17.6,2023-01-28,2023-01,positive
+rev_00154,892970,Valheim,Repetitive gameplay with nothing new after the first hour.,False,16.4,2023-02-26,2023-02,negative
+rev_00155,1203220,DEATH STRANDING,The developers abandoned this game after launch. No updates in 6 months.,False,28.7,2023-11-18,2023-11,negative
+rev_00156,1245620,Elden Ring,"Great optimization, runs perfectly on my mid-range PC. Love the art style.",True,88.6,2023-11-03,2023-11,positive
+rev_00157,1091500,Cyberpunk 2077,False advertising. The trailers showed nothing like the actual game.,False,70.1,2023-03-19,2023-03,negative
+rev_00158,1174180,Red Dead Redemption 2,The crafting system is well thought out. Hours of content to explore.,True,19.1,2023-08-13,2023-08,positive
+rev_00159,1174180,Red Dead Redemption 2,Worth every penny. The open world is huge and full of things to do.,True,5.2,2023-09-02,2023-09,positive
+rev_00160,892970,Valheim,"Great optimization, runs perfectly on my mid-range PC. Love the art style.",True,2.3,2023-12-08,2023-12,positive
+rev_00161,1203220,DEATH STRANDING,Average experience overall. Neither impressed nor disappointed.,False,43.9,2023-10-25,2023-10,neutral
+rev_00162,1245620,Elden Ring,Worth every penny. The open world is huge and full of things to do.,True,124.9,2023-08-06,2023-08,positive
+rev_00163,1203220,DEATH STRANDING,Riddled with bugs that break progression. Lost 10 hours of save data.,False,174.8,2023-07-16,2023-07,negative
+rev_00164,1174180,Red Dead Redemption 2,Combat feels satisfying and deep. Lots of build variety to experiment with.,True,6.5,2023-07-06,2023-07,positive
+rev_00165,1174180,Red Dead Redemption 2,Full of microtransactions and pay-to-win mechanics. Avoid.,False,55.3,2023-07-13,2023-07,negative
+rev_00166,1203220,DEATH STRANDING,Incredible storyline with memorable characters. The voice acting is top notch.,True,15.5,2023-01-04,2023-01,positive
+rev_00167,892970,Valheim,Absolutely love this game! The gameplay is smooth and the story is engaging.,True,54.6,2024-02-18,2024-02,positive
+rev_00168,892970,Valheim,"Performance is great, no bugs encountered. Very polished experience.",True,23.5,2023-07-25,2023-07,positive
+rev_00169,892970,Valheim,Absolutely love this game! The gameplay is smooth and the story is engaging.,True,12.4,2023-11-18,2023-11,positive
+rev_00170,1245620,Elden Ring,Runs at a stable 60fps on ultra settings. Visually breathtaking.,True,60.9,2024-03-04,2024-03,positive
+rev_00171,1091500,Cyberpunk 2077,The developers abandoned this game after launch. No updates in 6 months.,False,62.9,2023-11-10,2023-11,negative
+rev_00172,1203220,DEATH STRANDING,Game crashes every 30 minutes. Unplayable in its current state.,False,13.7,2023-01-27,2023-01,negative
+rev_00173,1091500,Cyberpunk 2077,Has potential but needs more polish. Might revisit after updates.,False,35.5,2023-08-23,2023-08,neutral
+rev_00174,1174180,Red Dead Redemption 2,Multiplayer servers are always down. Can't even play online.,False,91.0,2023-09-16,2023-09,negative
+rev_00175,1245620,Elden Ring,Multiplayer servers are always down. Can't even play online.,False,11.6,2023-08-20,2023-08,negative
+rev_00176,1203220,DEATH STRANDING,Graphics are nice but gameplay is mediocre. Worth it on sale.,False,17.2,2023-12-26,2023-12,neutral
+rev_00177,892970,Valheim,Runs okay on my PC. Not the best not the worst in the genre.,False,16.5,2023-06-01,2023-06,neutral
+rev_00178,1174180,Red Dead Redemption 2,10/10 would buy again. The music and atmosphere are phenomenal.,True,44.4,2023-12-22,2023-12,positive
+rev_00179,892970,Valheim,"Performance is great, no bugs encountered. Very polished experience.",True,34.1,2024-02-11,2024-02,positive
+rev_00180,1203220,DEATH STRANDING,Worth every penny. The open world is huge and full of things to do.,True,136.0,2024-01-28,2024-01,positive
+rev_00181,1245620,Elden Ring,Multiplayer is super fun with friends. Matchmaking is fast and fair.,True,14.3,2023-12-25,2023-12,positive
+rev_00182,892970,Valheim,Worth every penny. The open world is huge and full of things to do.,True,62.1,2023-01-26,2023-01,positive
+rev_00183,892970,Valheim,Has potential but needs more polish. Might revisit after updates.,False,35.2,2023-07-02,2023-07,neutral
+rev_00184,1245620,Elden Ring,Okay game for the price. Not my favorite genre but playable.,False,102.9,2023-09-28,2023-09,neutral
+rev_00185,892970,Valheim,Worth every penny. The open world is huge and full of things to do.,True,1.8,2023-02-05,2023-02,positive
+rev_00186,892970,Valheim,Way too expensive for the amount of content. Feel cheated.,False,4.9,2024-02-26,2024-02,negative
+rev_00187,1174180,Red Dead Redemption 2,Multiplayer servers are always down. Can't even play online.,False,53.5,2023-06-28,2023-06,negative
+rev_00188,1174180,Red Dead Redemption 2,Controls are clunky and unresponsive. Feels unfinished.,False,24.9,2024-02-11,2024-02,negative
+rev_00189,892970,Valheim,10/10 would buy again. The music and atmosphere are phenomenal.,True,4.5,2024-02-21,2024-02,positive
+rev_00190,1174180,Red Dead Redemption 2,Multiplayer servers are always down. Can't even play online.,False,192.6,2023-04-25,2023-04,negative
+rev_00191,1091500,Cyberpunk 2077,"Great optimization, runs perfectly on my mid-range PC. Love the art style.",True,117.9,2023-08-02,2023-08,positive
+rev_00192,1174180,Red Dead Redemption 2,Incredible storyline with memorable characters. The voice acting is top notch.,True,24.5,2024-01-05,2024-01,positive
+rev_00193,1245620,Elden Ring,Combat feels satisfying and deep. Lots of build variety to experiment with.,True,79.6,2023-09-06,2023-09,positive
+rev_00194,1245620,Elden Ring,Multiplayer servers are always down. Can't even play online.,False,49.3,2023-02-08,2023-02,negative
+rev_00195,892970,Valheim,The developers abandoned this game after launch. No updates in 6 months.,False,31.9,2024-03-09,2024-03,negative
+rev_00196,892970,Valheim,Repetitive gameplay with nothing new after the first hour.,False,82.6,2023-05-10,2023-05,negative
+rev_00197,1203220,DEATH STRANDING,Incredible storyline with memorable characters. The voice acting is top notch.,True,220.7,2023-03-10,2023-03,positive
+rev_00198,892970,Valheim,Loved every minute of it. The puzzles are clever and rewarding.,True,19.0,2023-12-13,2023-12,positive
+rev_00199,892970,Valheim,10/10 would buy again. The music and atmosphere are phenomenal.,True,23.2,2023-02-10,2023-02,positive
+rev_00200,1174180,Red Dead Redemption 2,Some good ideas poorly executed. The concept is better than the result.,False,17.0,2023-01-19,2023-01,neutral
+rev_00201,1091500,Cyberpunk 2077,Riddled with bugs that break progression. Lost 10 hours of save data.,False,90.4,2024-03-10,2024-03,negative
+rev_00202,1245620,Elden Ring,The developers abandoned this game after launch. No updates in 6 months.,False,51.6,2023-10-20,2023-10,negative
+rev_00203,1174180,Red Dead Redemption 2,No controller support. Keyboard only on a game that screams for gamepad.,False,54.8,2023-11-27,2023-11,negative
+rev_00204,1245620,Elden Ring,Combat feels satisfying and deep. Lots of build variety to experiment with.,True,53.0,2023-11-10,2023-11,positive
+rev_00205,892970,Valheim,The UI is confusing and poorly designed. Hard to navigate menus.,False,8.0,2023-01-10,2023-01,negative
+rev_00206,1174180,Red Dead Redemption 2,The developers really listen to the community. Updates keep improving the game.,True,8.1,2023-12-18,2023-12,positive
+rev_00207,1174180,Red Dead Redemption 2,"Great optimization, runs perfectly on my mid-range PC. Love the art style.",True,89.7,2023-09-09,2023-09,positive
+rev_00208,892970,Valheim,Loved every minute of it. The puzzles are clever and rewarding.,True,21.7,2024-01-04,2024-01,positive
+rev_00209,892970,Valheim,The developers really listen to the community. Updates keep improving the game.,True,99.4,2023-02-24,2023-02,positive
+rev_00210,892970,Valheim,Story is boring and predictable. Characters have zero depth.,False,5.7,2024-02-13,2024-02,negative
+rev_00211,1091500,Cyberpunk 2077,Worth every penny. The open world is huge and full of things to do.,True,24.0,2023-05-24,2023-05,positive
+rev_00212,1174180,Red Dead Redemption 2,Combat feels satisfying and deep. Lots of build variety to experiment with.,True,141.9,2023-10-04,2023-10,positive
+rev_00213,1245620,Elden Ring,Runs at a stable 60fps on ultra settings. Visually breathtaking.,True,144.4,2023-08-11,2023-08,positive
+rev_00214,1203220,DEATH STRANDING,Performance issues ruined my experience. Even low settings don't help.,False,87.8,2023-04-23,2023-04,negative
+rev_00215,1174180,Red Dead Redemption 2,"Amazing game, highly recommend. Spent 100+ hours and still not bored.",True,3.3,2023-11-02,2023-11,positive
+rev_00216,1174180,Red Dead Redemption 2,The developers really listen to the community. Updates keep improving the game.,True,110.1,2023-08-05,2023-08,positive
+rev_00217,892970,Valheim,The crafting system is well thought out. Hours of content to explore.,True,60.6,2023-08-18,2023-08,positive
+rev_00218,892970,Valheim,Way too expensive for the amount of content. Feel cheated.,False,109.3,2023-10-21,2023-10,negative
+rev_00219,1091500,Cyberpunk 2077,Multiplayer is super fun with friends. Matchmaking is fast and fair.,True,140.9,2024-02-09,2024-02,positive
+rev_00220,1091500,Cyberpunk 2077,Worth every penny. The open world is huge and full of things to do.,True,30.4,2023-12-08,2023-12,positive
+rev_00221,1174180,Red Dead Redemption 2,Okay game for the price. Not my favorite genre but playable.,False,40.3,2023-02-21,2023-02,neutral
+rev_00222,1174180,Red Dead Redemption 2,The developers really listen to the community. Updates keep improving the game.,True,173.4,2023-01-28,2023-01,positive
+rev_00223,892970,Valheim,Performance issues ruined my experience. Even low settings don't help.,False,52.0,2023-02-01,2023-02,negative
+rev_00224,1091500,Cyberpunk 2077,"Amazing game, highly recommend. Spent 100+ hours and still not bored.",True,78.3,2024-01-07,2024-01,positive
+rev_00225,1091500,Cyberpunk 2077,The developers abandoned this game after launch. No updates in 6 months.,False,45.1,2024-02-27,2024-02,negative
+rev_00226,1245620,Elden Ring,No controller support. Keyboard only on a game that screams for gamepad.,False,116.4,2023-06-01,2023-06,negative
+rev_00227,1174180,Red Dead Redemption 2,Has potential but needs more polish. Might revisit after updates.,False,39.8,2024-02-26,2024-02,neutral
+rev_00228,1245620,Elden Ring,Terrible optimization. Constant stuttering even on high-end hardware.,False,8.1,2023-02-12,2023-02,negative
+rev_00229,1245620,Elden Ring,"Amazing game, highly recommend. Spent 100+ hours and still not bored.",True,16.4,2023-10-05,2023-10,positive
+rev_00230,892970,Valheim,Best purchase I've made this year. Graphics are stunning and controls are responsive.,True,33.3,2023-09-25,2023-09,positive
+rev_00231,1174180,Red Dead Redemption 2,Riddled with bugs that break progression. Lost 10 hours of save data.,False,36.0,2023-09-20,2023-09,negative
+rev_00232,1091500,Cyberpunk 2077,Toxic community and no anti-cheat system. Hackers everywhere online.,False,54.8,2023-12-10,2023-12,negative
+rev_00233,892970,Valheim,Decent game but nothing groundbreaking. Gets repetitive after a while.,False,329.1,2023-11-28,2023-11,neutral
+rev_00234,892970,Valheim,Riddled with bugs that break progression. Lost 10 hours of save data.,False,63.3,2023-07-15,2023-07,negative
+rev_00235,1091500,Cyberpunk 2077,10/10 would buy again. The music and atmosphere are phenomenal.,True,9.0,2024-03-05,2024-03,positive
+rev_00236,1174180,Red Dead Redemption 2,Controls are clunky and unresponsive. Feels unfinished.,False,63.3,2023-10-13,2023-10,negative
+rev_00237,1203220,DEATH STRANDING,"Performance is great, no bugs encountered. Very polished experience.",True,47.5,2023-09-04,2023-09,positive
+rev_00238,1091500,Cyberpunk 2077,Repetitive gameplay with nothing new after the first hour.,False,74.3,2024-02-24,2024-02,negative
+rev_00239,1245620,Elden Ring,The developers really listen to the community. Updates keep improving the game.,True,27.7,2023-07-27,2023-07,positive
+rev_00240,892970,Valheim,Best purchase I've made this year. Graphics are stunning and controls are responsive.,True,19.7,2023-07-11,2023-07,positive
+rev_00241,1174180,Red Dead Redemption 2,"Finished it once, won't replay. Story is fine, gameplay serviceable.",False,4.5,2023-06-27,2023-06,neutral
+rev_00242,1091500,Cyberpunk 2077,The crafting system is well thought out. Hours of content to explore.,True,68.1,2023-02-26,2023-02,positive
+rev_00243,1245620,Elden Ring,"Performance is great, no bugs encountered. Very polished experience.",True,42.2,2023-09-22,2023-09,positive
+rev_00244,1091500,Cyberpunk 2077,Combat feels satisfying and deep. Lots of build variety to experiment with.,True,142.6,2023-07-14,2023-07,positive
+rev_00245,1091500,Cyberpunk 2077,Story is boring and predictable. Characters have zero depth.,False,6.5,2023-05-17,2023-05,negative
+rev_00246,1245620,Elden Ring,The developers abandoned this game after launch. No updates in 6 months.,False,95.0,2023-03-12,2023-03,negative
+rev_00247,1203220,DEATH STRANDING,"Great optimization, runs perfectly on my mid-range PC. Love the art style.",True,43.7,2023-06-26,2023-06,positive
+rev_00248,892970,Valheim,No controller support. Keyboard only on a game that screams for gamepad.,False,86.3,2024-02-20,2024-02,negative
+rev_00249,1203220,DEATH STRANDING,Performance issues ruined my experience. Even low settings don't help.,False,89.4,2023-01-09,2023-01,negative
+rev_00250,1091500,Cyberpunk 2077,Solid game with regular updates. Dev team is responsive on forums.,True,19.5,2023-03-11,2023-03,positive
+rev_00251,1174180,Red Dead Redemption 2,"Amazing game, highly recommend. Spent 100+ hours and still not bored.",True,42.8,2023-01-13,2023-01,positive
+rev_00252,1091500,Cyberpunk 2077,Terrible optimization. Constant stuttering even on high-end hardware.,False,5.8,2023-03-17,2023-03,negative
+rev_00253,1245620,Elden Ring,Incredible storyline with memorable characters. The voice acting is top notch.,True,9.6,2023-07-10,2023-07,positive
+rev_00254,1174180,Red Dead Redemption 2,Would recommend only if you're a fan of this type of game specifically.,False,5.4,2024-01-02,2024-01,neutral
+rev_00255,1245620,Elden Ring,Terrible optimization. Constant stuttering even on high-end hardware.,False,57.0,2023-03-09,2023-03,negative
+rev_00256,892970,Valheim,10/10 would buy again. The music and atmosphere are phenomenal.,True,30.2,2023-11-09,2023-11,positive
+rev_00257,1245620,Elden Ring,Incredible storyline with memorable characters. The voice acting is top notch.,True,29.1,2024-01-10,2024-01,positive
+rev_00258,1203220,DEATH STRANDING,"Great optimization, runs perfectly on my mid-range PC. Love the art style.",True,3.3,2023-08-13,2023-08,positive
+rev_00259,1203220,DEATH STRANDING,"Great optimization, runs perfectly on my mid-range PC. Love the art style.",True,146.3,2023-01-25,2023-01,positive
+rev_00260,1245620,Elden Ring,Incredible storyline with memorable characters. The voice acting is top notch.,True,7.4,2024-01-16,2024-01,positive
+rev_00261,892970,Valheim,"Performance is great, no bugs encountered. Very polished experience.",True,61.8,2023-03-17,2023-03,positive
+rev_00262,1203220,DEATH STRANDING,Story is boring and predictable. Characters have zero depth.,False,4.7,2024-02-28,2024-02,negative
+rev_00263,1091500,Cyberpunk 2077,Runs at a stable 60fps on ultra settings. Visually breathtaking.,True,5.1,2023-07-11,2023-07,positive
+rev_00264,1203220,DEATH STRANDING,The UI is confusing and poorly designed. Hard to navigate menus.,False,52.1,2023-07-10,2023-07,negative
+rev_00265,1091500,Cyberpunk 2077,Incredible storyline with memorable characters. The voice acting is top notch.,True,10.4,2023-07-20,2023-07,positive
+rev_00266,892970,Valheim,Story is boring and predictable. Characters have zero depth.,False,5.6,2024-02-28,2024-02,negative
+rev_00267,1091500,Cyberpunk 2077,Multiplayer is super fun with friends. Matchmaking is fast and fair.,True,38.1,2023-04-13,2023-04,positive
+rev_00268,1174180,Red Dead Redemption 2,Incredible storyline with memorable characters. The voice acting is top notch.,True,76.5,2023-12-03,2023-12,positive
+rev_00269,1203220,DEATH STRANDING,"Performance is great, no bugs encountered. Very polished experience.",True,11.8,2023-11-25,2023-11,positive
+rev_00270,1174180,Red Dead Redemption 2,Toxic community and no anti-cheat system. Hackers everywhere online.,False,52.8,2023-06-05,2023-06,negative
+rev_00271,1245620,Elden Ring,The developers really listen to the community. Updates keep improving the game.,True,10.5,2023-02-05,2023-02,positive
+rev_00272,1091500,Cyberpunk 2077,"Finished it once, won't replay. Story is fine, gameplay serviceable.",False,32.2,2023-03-19,2023-03,neutral
+rev_00273,1203220,DEATH STRANDING,Repetitive gameplay with nothing new after the first hour.,False,42.6,2023-08-21,2023-08,negative
+rev_00274,1203220,DEATH STRANDING,Okay game for the price. Not my favorite genre but playable.,False,9.2,2023-06-03,2023-06,neutral
+rev_00275,892970,Valheim,No controller support. Keyboard only on a game that screams for gamepad.,False,17.1,2023-08-02,2023-08,negative
+rev_00276,1174180,Red Dead Redemption 2,Worth every penny. The open world is huge and full of things to do.,True,31.1,2023-09-02,2023-09,positive
+rev_00277,1174180,Red Dead Redemption 2,Combat feels satisfying and deep. Lots of build variety to experiment with.,True,100.8,2024-02-28,2024-02,positive
+rev_00278,1091500,Cyberpunk 2077,Multiplayer servers are always down. Can't even play online.,False,32.1,2023-10-18,2023-10,negative
+rev_00279,1091500,Cyberpunk 2077,Would recommend only if you're a fan of this type of game specifically.,False,53.8,2023-08-11,2023-08,neutral
+rev_00280,1203220,DEATH STRANDING,Absolutely love this game! The gameplay is smooth and the story is engaging.,True,30.9,2023-08-26,2023-08,positive
+rev_00281,1174180,Red Dead Redemption 2,Combat feels satisfying and deep. Lots of build variety to experiment with.,True,10.5,2023-12-08,2023-12,positive
+rev_00282,892970,Valheim,10/10 would buy again. The music and atmosphere are phenomenal.,True,9.6,2023-08-12,2023-08,positive
+rev_00283,1174180,Red Dead Redemption 2,Incredible storyline with memorable characters. The voice acting is top notch.,True,57.8,2023-07-02,2023-07,positive
+rev_00284,1174180,Red Dead Redemption 2,"Performance is great, no bugs encountered. Very polished experience.",True,57.7,2023-02-10,2023-02,positive
+rev_00285,1174180,Red Dead Redemption 2,Would recommend only if you're a fan of this type of game specifically.,False,104.3,2023-12-11,2023-12,neutral
+rev_00286,1091500,Cyberpunk 2077,Repetitive gameplay with nothing new after the first hour.,False,22.5,2023-10-21,2023-10,negative
+rev_00287,892970,Valheim,Game crashes every 30 minutes. Unplayable in its current state.,False,19.5,2023-03-13,2023-03,negative
+rev_00288,1174180,Red Dead Redemption 2,The crafting system is well thought out. Hours of content to explore.,True,89.3,2024-02-24,2024-02,positive
+rev_00289,1203220,DEATH STRANDING,Multiplayer servers are always down. Can't even play online.,False,36.5,2023-02-01,2023-02,negative
+rev_00290,1174180,Red Dead Redemption 2,The developers really listen to the community. Updates keep improving the game.,True,21.9,2023-05-25,2023-05,positive
+rev_00291,892970,Valheim,"Amazing game, highly recommend. Spent 100+ hours and still not bored.",True,9.4,2023-04-10,2023-04,positive
+rev_00292,1091500,Cyberpunk 2077,Toxic community and no anti-cheat system. Hackers everywhere online.,False,68.1,2023-09-17,2023-09,negative
+rev_00293,1091500,Cyberpunk 2077,Solid game with regular updates. Dev team is responsive on forums.,True,49.1,2023-11-20,2023-11,positive
+rev_00294,892970,Valheim,Loved every minute of it. The puzzles are clever and rewarding.,True,60.0,2023-03-20,2023-03,positive
+rev_00295,1245620,Elden Ring,Multiplayer is super fun with friends. Matchmaking is fast and fair.,True,23.7,2023-12-24,2023-12,positive
+rev_00296,1245620,Elden Ring,No controller support. Keyboard only on a game that screams for gamepad.,False,70.0,2023-08-15,2023-08,negative
+rev_00297,1245620,Elden Ring,Solid game with regular updates. Dev team is responsive on forums.,True,77.7,2023-09-27,2023-09,positive
+rev_00298,1245620,Elden Ring,False advertising. The trailers showed nothing like the actual game.,False,209.2,2023-06-15,2023-06,negative
+rev_00299,1174180,Red Dead Redemption 2,"Performance is great, no bugs encountered. Very polished experience.",True,28.1,2024-01-06,2024-01,positive
