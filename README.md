@@ -181,5 +181,5 @@ Runs on `http://localhost:5001`
 
 **Next steps once real data arrives:**
 1. Replace `data/sample_reviews.csv` with real review data (same column schema)
-2. Re-run pipeline steps 2–6 (step 1 no longer needed)
+2. Re-run pipeline steps 2–6 
 3. Enable BERT scoring (`--bert` flag) and consider fine-tuning for improved neutral-class detection
