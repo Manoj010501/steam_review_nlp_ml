@@ -166,7 +166,7 @@ Runs on `http://localhost:5001`
 
 ---
 
-## Hand-off to Other Teams
+## Hand-off to Other Team mates
 
 - **P1 (Frontend):** `topic_summary.json`, `trend_data.json`, `developer_insights.json` — ready for Recharts visualizations
 - **P2 (Backend):** `sentiment_results.csv`, `topics_results.csv` — served via Flask API, or consumed directly as files
