@@ -1,229 +1,275 @@
 [
   {
     "topic_id": 0,
-    "theme": "developer",
-    "count": 34,
+    "theme": "story",
+    "count": 61,
     "keywords": [
-      "updates",
-      "community",
-      "game",
-      "responsive",
-      "",
-      "",
-      "",
-      ""
+      "arthur",
+      "rdr2",
+      "redemption",
+      "red dead",
+      "story",
+      "dead",
+      "red",
+      "dead redemption"
     ],
-    "avg_sentiment": 59.19,
+    "avg_sentiment": 86.26,
     "sentiment_dist": {
-      "positive": 26,
-      "negative": 8
+      "positive": 55,
+      "negative": 6
     }
   },
   {
     "topic_id": 1,
-    "theme": "gameplay",
-    "count": 33,
+    "theme": "story",
+    "count": 46,
     "keywords": [
-      "gameplay",
-      "hours",
-      "feel",
-      "story",
-      "game",
-      "poorly",
-      "",
-      ""
+      "cyberpunk",
+      "city",
+      "night",
+      "night city",
+      "2077",
+      "cyberpunk 2077",
+      "just",
+      "story"
     ],
-    "avg_sentiment": 47.17,
+    "avg_sentiment": 89.31,
     "sentiment_dist": {
-      "negative": 19,
-      "positive": 14
+      "positive": 44,
+      "negative": 2
     }
   },
   {
     "topic_id": 2,
-    "theme": "gameplay",
-    "count": 31,
+    "theme": "other",
+    "count": 34,
     "keywords": [
-      "game",
-      "story",
-      "love",
-      "gameplay",
-      "hours",
-      "okay",
-      "genre",
-      ""
+      "valheim",
+      "survival",
+      "early",
+      "building",
+      "survival game",
+      "sailing",
+      "base",
+      "crafting"
     ],
-    "avg_sentiment": 84.55,
+    "avg_sentiment": 77.95,
     "sentiment_dist": {
-      "positive": 28,
-      "negative": 3
-    }
-  },
-  {
-    "topic_id": 3,
-    "theme": "story",
-    "count": 23,
-    "keywords": [
-      "story",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "avg_sentiment": 52.19,
-    "sentiment_dist": {
-      "positive": 16,
+      "positive": 27,
       "negative": 7
     }
   },
   {
-    "topic_id": 4,
+    "topic_id": 3,
     "theme": "performance",
-    "count": 19,
+    "count": 29,
     "keywords": [
-      "performance",
-      "bugs",
-      "experience",
-      "great",
-      "updates",
-      "",
-      "",
-      ""
+      "fps",
+      "settings",
+      "dlss",
+      "120",
+      "runs",
+      "frame",
+      "quality",
+      "great"
     ],
-    "avg_sentiment": 66.23,
+    "avg_sentiment": 86.86,
     "sentiment_dist": {
-      "positive": 14,
-      "neutral": 5
+      "positive": 27,
+      "neutral": 1,
+      "negative": 1
+    }
+  },
+  {
+    "topic_id": 4,
+    "theme": "story",
+    "count": 28,
+    "keywords": [
+      "ring",
+      "elden ring",
+      "elden",
+      "world",
+      "open world",
+      "open",
+      "lands",
+      "experience"
+    ],
+    "avg_sentiment": 82.38,
+    "sentiment_dist": {
+      "positive": 24,
+      "negative": 4
     }
   },
   {
     "topic_id": 5,
+    "theme": "gameplay",
+    "count": 28,
+    "keywords": [
+      "great",
+      "story",
+      "storyline",
+      "beautiful",
+      "amazing",
+      "graphics",
+      "great story",
+      "best"
+    ],
+    "avg_sentiment": 93.52,
+    "sentiment_dist": {
+      "positive": 28
+    }
+  },
+  {
+    "topic_id": 6,
+    "theme": "performance",
+    "count": 23,
+    "keywords": [
+      "bugs",
+      "launch",
+      "release",
+      "bug",
+      "unplayable",
+      "experience game",
+      "game",
+      "played"
+    ],
+    "avg_sentiment": 79.18,
+    "sentiment_dist": {
+      "positive": 20,
+      "negative": 2,
+      "neutral": 1
+    }
+  },
+  {
+    "topic_id": 7,
     "theme": "value",
+    "count": 23,
+    "keywords": [
+      "great",
+      "highly",
+      "highly recommend",
+      "great game",
+      "recommend",
+      "worth",
+      "replayable",
+      "good"
+    ],
+    "avg_sentiment": 83.13,
+    "sentiment_dist": {
+      "positive": 20,
+      "negative": 2,
+      "neutral": 1
+    }
+  },
+  {
+    "topic_id": 8,
+    "theme": "story",
     "count": 19,
     "keywords": [
-      "worth",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "ending",
+      "game changed",
+      "end",
+      "loved",
+      "just",
+      "story",
+      "short",
+      "endings"
     ],
-    "avg_sentiment": 74.69,
+    "avg_sentiment": 80.47,
     "sentiment_dist": {
       "positive": 19
     }
   },
   {
-    "topic_id": 6,
-    "theme": "other",
-    "count": 16,
-    "keywords": [
-      "graphics",
-      "controls responsive",
-      "stunning",
-      "best purchase",
-      "graphics stunning",
-      "purchase",
-      "purchase ve",
-      "year graphics"
-    ],
-    "avg_sentiment": 52.4,
-    "sentiment_dist": {
-      "positive": 9,
-      "negative": 7
-    }
-  },
-  {
-    "topic_id": 7,
-    "theme": "multiplayer",
-    "count": 15,
-    "keywords": [
-      "online multiplayer",
-      "online",
-      "multiplayer",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "avg_sentiment": 37.08,
-    "sentiment_dist": {
-      "negative": 15
-    }
-  },
-  {
-    "topic_id": 8,
-    "theme": "other",
-    "count": 13,
-    "keywords": [
-      "feels",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "avg_sentiment": 57.66,
-    "sentiment_dist": {
-      "positive": 13
-    }
-  },
-  {
     "topic_id": 9,
-    "theme": "performance",
-    "count": 12,
+    "theme": "gameplay",
+    "count": 19,
     "keywords": [
-      "pc",
-      "optimization",
-      "love",
-      "runs",
-      "great",
-      "",
-      "",
-      ""
+      "amazing graphics",
+      "fun play",
+      "play amazing",
+      "amazing",
+      "graphics",
+      "fun",
+      "play",
+      "immersive"
     ],
-    "avg_sentiment": 97.21,
+    "avg_sentiment": 85.94,
     "sentiment_dist": {
-      "positive": 12
+      "positive": 18,
+      "neutral": 1
     }
   },
   {
     "topic_id": 10,
-    "theme": "value",
-    "count": 11,
+    "theme": "story",
+    "count": 19,
     "keywords": [
-      "bugs",
-      "hours",
-      "10",
-      "game",
-      "",
-      "",
-      "",
-      ""
+      "dlc",
+      "open",
+      "open world",
+      "world",
+      "world story",
+      "best open",
+      "world game",
+      "best"
     ],
-    "avg_sentiment": 57.2,
+    "avg_sentiment": 87.74,
     "sentiment_dist": {
-      "positive": 7,
-      "neutral": 4
+      "positive": 18,
+      "negative": 1
     }
   },
   {
     "topic_id": 11,
-    "theme": "other",
-    "count": 11,
+    "theme": "value",
+    "count": 19,
     "keywords": [
-      "10",
-      "",
-      "",
-      "",
+      "worth",
+      "game worth",
+      "price",
+      "60",
+      "worth 60",
+      "worth price",
+      "20",
+      "buy"
+    ],
+    "avg_sentiment": 76.52,
+    "sentiment_dist": {
+      "positive": 16,
+      "negative": 3
+    }
+  },
+  {
+    "topic_id": 12,
+    "theme": "developer",
+    "count": 18,
+    "keywords": [
+      "launcher",
+      "rockstar",
+      "account",
+      "support",
+      "doesn",
+      "issues",
+      "play",
+      "game"
+    ],
+    "avg_sentiment": 67.96,
+    "sentiment_dist": {
+      "positive": 11,
+      "negative": 6,
+      "neutral": 1
+    }
+  },
+  {
+    "topic_id": 13,
+    "theme": "other",
+    "count": 16,
+    "keywords": [
+      "chinese",
+      "trash",
+      "thing",
+      "game",
       "",
       "",
       "",
@@ -231,113 +277,74 @@
     ],
     "avg_sentiment": 50.0,
     "sentiment_dist": {
-      "neutral": 11
-    }
-  },
-  {
-    "topic_id": 12,
-    "theme": "multiplayer",
-    "count": 10,
-    "keywords": [
-      "online",
-      "community",
-      "fair",
-      "fast",
-      "super",
-      "multiplayer super",
-      "super fun",
-      "matchmaking fast"
-    ],
-    "avg_sentiment": 47.28,
-    "sentiment_dist": {
-      "negative": 8,
-      "positive": 2
-    }
-  },
-  {
-    "topic_id": 13,
-    "theme": "gameplay",
-    "count": 10,
-    "keywords": [
-      "controls",
-      "feels",
-      "best purchase",
-      "year",
-      "ve year",
-      "ve",
-      "stunning controls",
-      "stunning"
-    ],
-    "avg_sentiment": 58.52,
-    "sentiment_dist": {
-      "neutral": 8,
-      "positive": 2
+      "neutral": 16
     }
   },
   {
     "topic_id": 14,
     "theme": "other",
-    "count": 9,
+    "count": 16,
     "keywords": [
-      "don help",
-      "settings don",
-      "ruined experience",
-      "ruined",
-      "performance issues",
-      "low settings",
-      "low",
-      "issues ruined"
+      "\u0e22\u0e27\u0e08\u0e2d\u0e21\u0e22 \u0e17\u0e18",
+      "\u0e02\u0e2d\u0e41\u0e19\u0e30\u0e19\u0e33\u0e40\u0e25\u0e22\u0e44\u0e14",
+      "\u0e40\u0e1a",
+      "\u0e32\u0e04 \u0e13\u0e2d\u0e22\u0e32\u0e01\u0e40\u0e1a",
+      "\u0e32\u0e04",
+      "\u0e30\u0e01 \u0e02\u0e2d\u0e41\u0e19\u0e30\u0e19\u0e33\u0e40\u0e25\u0e22\u0e44\u0e14",
+      "\u0e30\u0e01",
+      "\u0e2a\u0e27\u0e22\u0e2a \u0e14\u0e46"
     ],
-    "avg_sentiment": 21.52,
+    "avg_sentiment": 50.0,
     "sentiment_dist": {
-      "negative": 9
+      "neutral": 16
     }
   },
   {
     "topic_id": 15,
-    "theme": "other",
-    "count": 9,
+    "theme": "story",
+    "count": 16,
     "keywords": [
-      "feel",
-      "experience",
-      "great",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "phantom liberty",
+      "liberty",
+      "phantom",
+      "pc",
+      "console",
+      "ps5",
+      "10",
+      "played"
     ],
-    "avg_sentiment": 47.99,
+    "avg_sentiment": 86.22,
     "sentiment_dist": {
-      "negative": 5,
-      "positive": 4
+      "positive": 14,
+      "negative": 1,
+      "neutral": 1
     }
   },
   {
     "topic_id": 16,
-    "theme": "performance",
-    "count": 8,
+    "theme": "gameplay",
+    "count": 15,
     "keywords": [
-      "breathtaking",
-      "visually breathtaking",
-      "visually",
-      "ultra settings",
-      "ultra",
-      "stable 60fps",
-      "stable",
-      "settings visually"
+      "friends",
+      "crafting",
+      "fun",
+      "stamina",
+      "ores",
+      "choose",
+      "solo",
+      "grind"
     ],
-    "avg_sentiment": 73.81,
+    "avg_sentiment": 90.75,
     "sentiment_dist": {
-      "positive": 8
+      "positive": 15
     }
   },
   {
     "topic_id": 17,
     "theme": "other",
-    "count": 7,
+    "count": 15,
     "keywords": [
-      "poorly",
+      "yes",
       "",
       "",
       "",
@@ -346,28 +353,720 @@
       "",
       ""
     ],
-    "avg_sentiment": 34.09,
+    "avg_sentiment": 59.38,
     "sentiment_dist": {
-      "negative": 7
+      "neutral": 8,
+      "positive": 7
     }
   },
   {
     "topic_id": 18,
+    "theme": "story",
+    "count": 14,
+    "keywords": [
+      "story",
+      "missions",
+      "main",
+      "rockstar",
+      "world",
+      "camera",
+      "vehicles",
+      "different"
+    ],
+    "avg_sentiment": 94.22,
+    "sentiment_dist": {
+      "positive": 14
+    }
+  },
+  {
+    "topic_id": 19,
+    "theme": "other",
+    "count": 12,
+    "keywords": [
+      "viking",
+      "survival",
+      "building",
+      "theme",
+      "norse viking",
+      "friend",
+      "survival game",
+      "viking survival"
+    ],
+    "avg_sentiment": 83.53,
+    "sentiment_dist": {
+      "positive": 11,
+      "negative": 1
+    }
+  },
+  {
+    "topic_id": 20,
+    "theme": "other",
+    "count": 12,
+    "keywords": [
+      "survival",
+      "survival game",
+      "tree",
+      "home",
+      "favorite",
+      "h1",
+      "favorite survival",
+      "weather"
+    ],
+    "avg_sentiment": 67.64,
+    "sentiment_dist": {
+      "positive": 9,
+      "negative": 3
+    }
+  },
+  {
+    "topic_id": 21,
+    "theme": "other",
+    "count": 12,
+    "keywords": [
+      "boss",
+      "bosses",
+      "beat",
+      "malenia",
+      "beat boss",
+      "hours beat",
+      "game bosses",
+      "mental"
+    ],
+    "avg_sentiment": 76.12,
+    "sentiment_dist": {
+      "positive": 9,
+      "negative": 2,
+      "neutral": 1
+    }
+  },
+  {
+    "topic_id": 22,
+    "theme": "other",
+    "count": 12,
+    "keywords": [
+      "good game",
+      "game good",
+      "good",
+      "feel game",
+      "look feel",
+      "main character",
+      "like story",
+      "game highly"
+    ],
+    "avg_sentiment": 76.85,
+    "sentiment_dist": {
+      "positive": 12
+    }
+  },
+  {
+    "topic_id": 23,
+    "theme": "other",
+    "count": 12,
+    "keywords": [
+      "stupid",
+      "properly",
+      "optimized",
+      "game instead",
+      "pc runs",
+      "laggy",
+      "useless",
+      "wonder"
+    ],
+    "avg_sentiment": 89.17,
+    "sentiment_dist": {
+      "positive": 11,
+      "negative": 1
+    }
+  },
+  {
+    "topic_id": 24,
+    "theme": "story",
+    "count": 12,
+    "keywords": [
+      "like bad",
+      "writing feels",
+      "developer",
+      "lived",
+      "conclusion",
+      "bunch",
+      "ve seen",
+      "told"
+    ],
+    "avg_sentiment": 29.21,
+    "sentiment_dist": {
+      "negative": 10,
+      "positive": 2
+    }
+  },
+  {
+    "topic_id": 25,
+    "theme": "value",
+    "count": 11,
+    "keywords": [
+      "mods",
+      "mod",
+      "pc",
+      "just play",
+      "hours",
+      "played",
+      "im",
+      "spent"
+    ],
+    "avg_sentiment": 81.96,
+    "sentiment_dist": {
+      "positive": 10,
+      "neutral": 1
+    }
+  },
+  {
+    "topic_id": 26,
+    "theme": "other",
+    "count": 11,
+    "keywords": [
+      "relationship",
+      "hit",
+      "beating",
+      "game like",
+      "beat",
+      "just got",
+      "teaches",
+      "turned game"
+    ],
+    "avg_sentiment": 45.74,
+    "sentiment_dist": {
+      "positive": 5,
+      "negative": 5,
+      "neutral": 1
+    }
+  },
+  {
+    "topic_id": 27,
+    "theme": "other",
+    "count": 11,
+    "keywords": [
+      "playstyle",
+      "pretty",
+      "lot freedom",
+      "ve got",
+      "ve pleasure",
+      "pleasure",
+      "lot",
+      "pretty easy"
+    ],
+    "avg_sentiment": 90.11,
+    "sentiment_dist": {
+      "positive": 10,
+      "negative": 1
+    }
+  },
+  {
+    "topic_id": 28,
+    "theme": "other",
+    "count": 10,
+    "keywords": [
+      "easily favorite",
+      "royal",
+      "game easily",
+      "easily",
+      "favorite",
+      "battle",
+      "bridge",
+      "breath"
+    ],
+    "avg_sentiment": 75.92,
+    "sentiment_dist": {
+      "positive": 10
+    }
+  },
+  {
+    "topic_id": 29,
+    "theme": "other",
+    "count": 10,
+    "keywords": [
+      "yes",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "avg_sentiment": 52.01,
+    "sentiment_dist": {
+      "neutral": 9,
+      "positive": 1
+    }
+  },
+  {
+    "topic_id": 30,
+    "theme": "other",
+    "count": 10,
+    "keywords": [
+      "cool game",
+      "game cool",
+      "cool",
+      "best game",
+      "game best",
+      "game",
+      "best",
+      ""
+    ],
+    "avg_sentiment": 69.1,
+    "sentiment_dist": {
+      "positive": 10
+    }
+  },
+  {
+    "topic_id": 31,
+    "theme": "other",
+    "count": 10,
+    "keywords": [
+      "count",
+      "player",
+      "lacks",
+      "caters",
+      "fps game",
+      "combat game",
+      "global",
+      "game opinion"
+    ],
+    "avg_sentiment": 78.04,
+    "sentiment_dist": {
+      "positive": 10
+    }
+  },
+  {
+    "topic_id": 32,
+    "theme": "other",
+    "count": 10,
+    "keywords": [
+      "yes",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "avg_sentiment": 38.69,
+    "sentiment_dist": {
+      "negative": 9,
+      "positive": 1
+    }
+  },
+  {
+    "topic_id": 33,
     "theme": "multiplayer",
+    "count": 10,
+    "keywords": [
+      "servers",
+      "min",
+      "times",
+      "people",
+      "ping",
+      "west",
+      "server",
+      "regularly"
+    ],
+    "avg_sentiment": 98.83,
+    "sentiment_dist": {
+      "positive": 10
+    }
+  },
+  {
+    "topic_id": 34,
+    "theme": "other",
+    "count": 10,
+    "keywords": [
+      "\u0e22\u0e27\u0e08\u0e2d\u0e21\u0e22 \u0e17\u0e18",
+      "\u0e02\u0e2d\u0e41\u0e19\u0e30\u0e19\u0e33\u0e40\u0e25\u0e22\u0e44\u0e14",
+      "\u0e40\u0e1a",
+      "\u0e32\u0e04 \u0e13\u0e2d\u0e22\u0e32\u0e01\u0e40\u0e1a",
+      "\u0e32\u0e04",
+      "\u0e30\u0e01 \u0e02\u0e2d\u0e41\u0e19\u0e30\u0e19\u0e33\u0e40\u0e25\u0e22\u0e44\u0e14",
+      "\u0e30\u0e01",
+      "\u0e2a\u0e27\u0e22\u0e2a \u0e14\u0e46"
+    ],
+    "avg_sentiment": 50.0,
+    "sentiment_dist": {
+      "neutral": 10
+    }
+  },
+  {
+    "topic_id": 35,
+    "theme": "story",
+    "count": 10,
+    "keywords": [
+      "souls",
+      "world",
+      "fromsoft",
+      "open",
+      "enjoyed",
+      "bosses",
+      "open world",
+      "quests"
+    ],
+    "avg_sentiment": 81.85,
+    "sentiment_dist": {
+      "positive": 9,
+      "negative": 1
+    }
+  },
+  {
+    "topic_id": 36,
+    "theme": "multiplayer",
+    "count": 9,
+    "keywords": [
+      "pvp",
+      "ranged weapons",
+      "ranged",
+      "weapons",
+      "works",
+      "easy",
+      "layout",
+      "weapons gives"
+    ],
+    "avg_sentiment": 86.58,
+    "sentiment_dist": {
+      "positive": 9
+    }
+  },
+  {
+    "topic_id": 37,
+    "theme": "gameplay",
+    "count": 9,
+    "keywords": [
+      "building",
+      "building combat",
+      "enjoy",
+      "combat",
+      "settings",
+      "game really",
+      "game",
+      "building fun"
+    ],
+    "avg_sentiment": 92.5,
+    "sentiment_dist": {
+      "positive": 9
+    }
+  },
+  {
+    "topic_id": 38,
+    "theme": "gameplay",
+    "count": 9,
+    "keywords": [
+      "naraka",
+      "movement",
+      "feels",
+      "skill",
+      "fight",
+      "royale",
+      "battle royale",
+      "moments"
+    ],
+    "avg_sentiment": 99.92,
+    "sentiment_dist": {
+      "positive": 9
+    }
+  },
+  {
+    "topic_id": 39,
+    "theme": "other",
+    "count": 9,
+    "keywords": [
+      "aaa",
+      "game time",
+      "best",
+      "trust",
+      "deserves",
+      "best game",
+      "worst",
+      "close ve"
+    ],
+    "avg_sentiment": 75.92,
+    "sentiment_dist": {
+      "positive": 8,
+      "negative": 1
+    }
+  },
+  {
+    "topic_id": 40,
+    "theme": "other",
+    "count": 9,
+    "keywords": [
+      "dont play",
+      "facial",
+      "try game",
+      "modes",
+      "game modes",
+      "customization",
+      "lot fun",
+      "dont"
+    ],
+    "avg_sentiment": 91.58,
+    "sentiment_dist": {
+      "positive": 9
+    }
+  },
+  {
+    "topic_id": 41,
+    "theme": "other",
+    "count": 9,
+    "keywords": [
+      "peak",
+      "good",
+      "good graphics",
+      "game peak",
+      "peak gameplay",
+      "hell",
+      "matter",
+      "amazing game"
+    ],
+    "avg_sentiment": 85.46,
+    "sentiment_dist": {
+      "positive": 9
+    }
+  },
+  {
+    "topic_id": 42,
+    "theme": "other",
+    "count": 9,
+    "keywords": [
+      "slept",
+      "west",
+      "really",
+      "western genre",
+      "games recent",
+      "story games",
+      "western",
+      "single player"
+    ],
+    "avg_sentiment": 53.54,
+    "sentiment_dist": {
+      "neutral": 8,
+      "positive": 1
+    }
+  },
+  {
+    "topic_id": 43,
+    "theme": "other",
+    "count": 9,
+    "keywords": [
+      "hard",
+      "different",
+      "grand",
+      "fingers",
+      "balls",
+      "make different",
+      "challenge",
+      "choices"
+    ],
+    "avg_sentiment": 77.79,
+    "sentiment_dist": {
+      "positive": 7,
+      "negative": 1,
+      "neutral": 1
+    }
+  },
+  {
+    "topic_id": 44,
+    "theme": "other",
+    "count": 8,
+    "keywords": [
+      "souls",
+      "souls game",
+      "genre",
+      "elden ring",
+      "elden",
+      "ring",
+      "best thing",
+      "played souls"
+    ],
+    "avg_sentiment": 70.03,
+    "sentiment_dist": {
+      "positive": 6,
+      "negative": 2
+    }
+  },
+  {
+    "topic_id": 45,
+    "theme": "other",
+    "count": 8,
+    "keywords": [
+      "10",
+      "10 10",
+      "masterpiece",
+      "game masterpiece",
+      "game just",
+      "combat boss",
+      "gaming love",
+      "closes"
+    ],
+    "avg_sentiment": 83.48,
+    "sentiment_dist": {
+      "positive": 7,
+      "neutral": 1
+    }
+  },
+  {
+    "topic_id": 46,
+    "theme": "other",
+    "count": 7,
+    "keywords": [
+      "range",
+      "game play",
+      "said",
+      "love game",
+      "infuriating",
+      "game enjoyable",
+      "say hasn",
+      "windrose"
+    ],
+    "avg_sentiment": 73.51,
+    "sentiment_dist": {
+      "positive": 5,
+      "neutral": 1,
+      "negative": 1
+    }
+  },
+  {
+    "topic_id": 47,
+    "theme": "other",
+    "count": 7,
+    "keywords": [
+      "forward",
+      "exploration",
+      "biome",
+      "challenge",
+      "team",
+      "adventure",
+      "journey",
+      "building"
+    ],
+    "avg_sentiment": 94.04,
+    "sentiment_dist": {
+      "positive": 7
+    }
+  },
+  {
+    "topic_id": 48,
+    "theme": "performance",
+    "count": 7,
+    "keywords": [
+      "music",
+      "game beautiful",
+      "beautiful game",
+      "soundtrack",
+      "beautiful",
+      "sure 10",
+      "game shot",
+      "stable"
+    ],
+    "avg_sentiment": 87.25,
+    "sentiment_dist": {
+      "positive": 6,
+      "negative": 1
+    }
+  },
+  {
+    "topic_id": 49,
+    "theme": "other",
+    "count": 7,
+    "keywords": [
+      "game best",
+      "best game",
+      "best",
+      "game",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "avg_sentiment": 81.84,
+    "sentiment_dist": {
+      "positive": 7
+    }
+  },
+  {
+    "topic_id": 50,
+    "theme": "other",
+    "count": 7,
+    "keywords": [
+      "grind",
+      "average",
+      "bugs",
+      "good",
+      "hard drive",
+      "paint",
+      "bad",
+      "hold"
+    ],
+    "avg_sentiment": 80.09,
+    "sentiment_dist": {
+      "positive": 6,
+      "negative": 1
+    }
+  },
+  {
+    "topic_id": 51,
+    "theme": "other",
     "count": 6,
     "keywords": [
-      "super",
-      "multiplayer super",
-      "super fun",
-      "matchmaking fast",
-      "matchmaking",
-      "fun friends",
-      "fun",
-      "friends matchmaking"
+      "alot",
+      "grinding",
+      "crafting",
+      "lost",
+      "game alot",
+      "wears",
+      "just little",
+      "like grinding"
     ],
-    "avg_sentiment": 95.59,
+    "avg_sentiment": 76.52,
+    "sentiment_dist": {
+      "positive": 5,
+      "negative": 1
+    }
+  },
+  {
+    "topic_id": 52,
+    "theme": "other",
+    "count": 6,
+    "keywords": [
+      "bosses",
+      "cool",
+      "bosses game",
+      "game cool",
+      "hard",
+      "pure",
+      "game pure",
+      "swords"
+    ],
+    "avg_sentiment": 88.94,
     "sentiment_dist": {
       "positive": 6
+    }
+  },
+  {
+    "topic_id": 53,
+    "theme": "story",
+    "count": 5,
+    "keywords": [
+      "cutscene",
+      "minutes",
+      "100",
+      "looking",
+      "giving people",
+      "time playing",
+      "nights",
+      "10 minutes"
+    ],
+    "avg_sentiment": 58.08,
+    "sentiment_dist": {
+      "positive": 2,
+      "negative": 2,
+      "neutral": 1
     }
   }
 ]

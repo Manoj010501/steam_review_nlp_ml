@@ -1,75 +1,12 @@
 game_name,app_id,month,avg_score,review_count,positive,negative,neutral,positive_pct,velocity,trend
-Cyberpunk 2077,1091500,2023-01,49.78,3,2,1,0,66.7,0.0,stable
-Cyberpunk 2077,1091500,2023-02,42.6,3,1,2,0,33.3,-7.18,declining
-Cyberpunk 2077,1091500,2023-03,54.38,8,4,3,1,50.0,11.78,improving
-Cyberpunk 2077,1091500,2023-04,78.45,2,2,0,0,100.0,24.07,improving
-Cyberpunk 2077,1091500,2023-05,63.34,3,2,1,0,66.7,-15.11,declining
-Cyberpunk 2077,1091500,2023-06,72.02,1,1,0,0,100.0,8.68,improving
-Cyberpunk 2077,1091500,2023-07,71.26,6,6,0,0,100.0,-0.76,stable
-Cyberpunk 2077,1091500,2023-08,74.63,4,3,0,1,75.0,3.37,improving
-Cyberpunk 2077,1091500,2023-09,35.2,1,0,1,0,0.0,-39.43,declining
-Cyberpunk 2077,1091500,2023-10,47.76,4,1,2,1,25.0,12.56,improving
-Cyberpunk 2077,1091500,2023-11,49.68,5,2,2,1,40.0,1.92,stable
-Cyberpunk 2077,1091500,2023-12,54.95,2,1,1,0,50.0,5.27,improving
-Cyberpunk 2077,1091500,2024-01,79.99,5,5,0,0,100.0,25.04,improving
-Cyberpunk 2077,1091500,2024-02,56.11,5,2,2,1,40.0,-23.88,declining
-Cyberpunk 2077,1091500,2024-03,65.39,4,3,0,1,75.0,9.28,improving
-DEATH STRANDING,1203220,2023-01,51.86,8,3,3,2,37.5,0.0,stable
-DEATH STRANDING,1203220,2023-02,63.72,4,3,1,0,75.0,11.86,improving
-DEATH STRANDING,1203220,2023-03,49.2,3,1,1,1,33.3,-14.52,declining
-DEATH STRANDING,1203220,2023-04,38.87,5,1,4,0,20.0,-10.33,declining
-DEATH STRANDING,1203220,2023-05,34.09,1,0,1,0,0.0,-4.78,declining
-DEATH STRANDING,1203220,2023-06,71.0,6,5,1,0,83.3,36.91,improving
-DEATH STRANDING,1203220,2023-07,48.47,3,1,1,1,33.3,-22.53,declining
-DEATH STRANDING,1203220,2023-08,66.21,5,3,2,0,60.0,17.74,improving
-DEATH STRANDING,1203220,2023-09,72.02,1,1,0,0,100.0,5.81,improving
-DEATH STRANDING,1203220,2023-10,62.0,3,2,1,0,66.7,-10.02,declining
-DEATH STRANDING,1203220,2023-11,60.08,3,2,1,0,66.7,-1.92,stable
-DEATH STRANDING,1203220,2023-12,72.31,3,3,0,0,100.0,12.23,improving
-DEATH STRANDING,1203220,2024-01,50.17,3,2,1,0,66.7,-22.14,declining
-DEATH STRANDING,1203220,2024-02,47.7,2,1,1,0,50.0,-2.47,declining
-DEATH STRANDING,1203220,2024-03,55.05,2,1,0,1,50.0,7.35,improving
-Elden Ring,1245620,2023-02,40.58,6,1,5,0,16.7,0.0,stable
-Elden Ring,1245620,2023-03,55.6,5,3,2,0,60.0,15.02,improving
-Elden Ring,1245620,2023-04,70.45,5,4,1,0,80.0,14.85,improving
-Elden Ring,1245620,2023-05,55.55,4,2,1,1,50.0,-14.9,declining
-Elden Ring,1245620,2023-06,49.9,4,2,2,0,50.0,-5.65,declining
-Elden Ring,1245620,2023-07,71.01,3,3,0,0,100.0,21.11,improving
-Elden Ring,1245620,2023-08,56.62,5,3,2,0,60.0,-14.39,declining
-Elden Ring,1245620,2023-09,55.21,6,4,2,0,66.7,-1.41,stable
-Elden Ring,1245620,2023-10,43.39,3,1,2,0,33.3,-11.82,declining
-Elden Ring,1245620,2023-11,61.58,7,5,2,0,71.4,18.19,improving
-Elden Ring,1245620,2023-12,96.13,3,3,0,0,100.0,34.55,improving
-Elden Ring,1245620,2024-01,68.59,5,4,1,0,80.0,-27.54,declining
-Elden Ring,1245620,2024-02,81.84,1,1,0,0,100.0,13.25,improving
-Elden Ring,1245620,2024-03,74.16,3,2,0,1,66.7,-7.68,declining
-Red Dead Redemption 2,1174180,2023-01,74.17,5,5,0,0,100.0,0.0,stable
-Red Dead Redemption 2,1174180,2023-02,64.33,7,5,2,0,71.4,-9.84,declining
-Red Dead Redemption 2,1174180,2023-03,52.59,2,1,1,0,50.0,-11.74,declining
-Red Dead Redemption 2,1174180,2023-04,51.07,5,2,2,1,40.0,-1.52,stable
-Red Dead Redemption 2,1174180,2023-05,53.14,2,1,1,0,50.0,2.07,improving
-Red Dead Redemption 2,1174180,2023-06,44.13,3,1,2,0,33.3,-9.01,declining
-Red Dead Redemption 2,1174180,2023-07,56.92,4,3,1,0,75.0,12.79,improving
-Red Dead Redemption 2,1174180,2023-08,62.16,5,4,1,0,80.0,5.24,improving
-Red Dead Redemption 2,1174180,2023-09,69.0,5,4,1,0,80.0,6.84,improving
-Red Dead Redemption 2,1174180,2023-10,62.56,4,2,0,2,50.0,-6.44,declining
-Red Dead Redemption 2,1174180,2023-11,59.0,4,2,2,0,50.0,-3.56,declining
-Red Dead Redemption 2,1174180,2023-12,59.28,6,4,1,1,66.7,0.28,stable
-Red Dead Redemption 2,1174180,2024-01,65.64,6,4,1,1,66.7,6.36,improving
-Red Dead Redemption 2,1174180,2024-02,51.68,5,2,1,2,40.0,-13.96,declining
-Red Dead Redemption 2,1174180,2024-03,47.49,3,1,1,1,33.3,-4.19,declining
-Valheim,892970,2023-01,51.0,4,2,2,0,50.0,0.0,stable
-Valheim,892970,2023-02,50.8,9,4,4,1,44.4,-0.2,stable
-Valheim,892970,2023-03,61.53,7,5,1,1,71.4,10.73,improving
-Valheim,892970,2023-04,82.39,3,3,0,0,100.0,20.86,improving
-Valheim,892970,2023-05,45.45,3,1,2,0,33.3,-36.94,declining
-Valheim,892970,2023-06,64.82,4,3,1,0,75.0,19.37,improving
-Valheim,892970,2023-07,73.17,6,5,0,1,83.3,8.35,improving
-Valheim,892970,2023-08,54.3,5,3,1,1,60.0,-18.87,declining
-Valheim,892970,2023-09,71.3,2,1,0,1,50.0,17.0,improving
-Valheim,892970,2023-10,59.32,2,1,1,0,50.0,-11.98,declining
-Valheim,892970,2023-11,67.25,5,4,0,1,80.0,7.93,improving
-Valheim,892970,2023-12,89.18,4,4,0,0,100.0,21.93,improving
-Valheim,892970,2024-01,64.13,2,1,1,0,50.0,-25.05,declining
-Valheim,892970,2024-02,50.31,9,3,5,1,33.3,-13.82,declining
-Valheim,892970,2024-03,18.15,1,0,1,0,0.0,-32.16,declining
+Cyberpunk 2077,1091500,2026-05,86.81,18,17,1,0,94.4,0.0,stable
+Cyberpunk 2077,1091500,2026-06,83.87,182,163,15,4,89.6,-2.94,declining
+DEATH STRANDING,1203220,2026-04,69.43,76,43,0,33,56.6,0.0,stable
+DEATH STRANDING,1203220,2026-05,64.53,59,34,9,16,57.6,-4.9,declining
+DEATH STRANDING,1203220,2026-06,70.69,65,38,9,18,58.5,6.16,improving
+Elden Ring,1245620,2026-05,87.97,8,8,0,0,100.0,0.0,stable
+Elden Ring,1245620,2026-06,78.4,192,158,27,7,82.3,-9.57,declining
+Red Dead Redemption 2,1174180,2026-05,81.36,14,13,1,0,92.9,0.0,stable
+Red Dead Redemption 2,1174180,2026-06,82.24,186,161,18,7,86.6,0.88,stable
+Valheim,892970,2026-05,63.65,5,3,2,0,60.0,0.0,stable
+Valheim,892970,2026-06,78.97,195,161,28,6,82.6,15.32,improving
